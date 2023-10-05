@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/yassinemajidi/terraform-eks-kubernetes/main/Capture.JPG" width="400"/>
 
-This is a sample project on how to create an EKS Cluster Using Terraform and test it with Kubernetes
+This is a sample project on how to create an EKS Cluster with two subnets using Terraform and test it using ready to use Kubernetes Hello world.
 
 ## I. Run with docker
 
